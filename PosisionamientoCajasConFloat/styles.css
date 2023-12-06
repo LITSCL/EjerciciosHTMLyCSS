@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding:0px;
+    font-family: Arial;
+}
+
+.clearfix {
+    float: none;
+    clear: both;
+}
+
+#div1 {
+    margin: 0px auto;
+    background-color: red;
+    width: 100%;
+    min-height: 230px;
+}
+
+#div2 {
+    margin: 0px auto;
+    background-color: green;
+    width: 100%;
+    min-height: 115px;
+}
+
+#div3 {
+    margin-left: 7%;
+    background-color: yellow;
+    width: 20%;
+    min-height: 540px;
+    display: block;
+    float: left;
+}
+
+#div4 {
+    background-color: blue;
+    width: 73%;
+    min-height: 750px;
+    display: block;
+    float: right;
+}
+
+#div5 {
+    margin-left: 7%;
+    background-color: purple;
+    width: 20%;
+    min-height: 210px;
+    display: block;
+    float: left;
+}
+
+#div6 {
+    background-color: gray;
+    width: 100%;
+    min-height: 150px;
+}

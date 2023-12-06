@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.divs {
+    background-color: green;
+    width: 700px;
+    min-height: 300px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+#hola1 {
+    display: block;
+    background-color: red;
+    font-size: 30px;
+}
+
+#hola2 {
+    display: block;
+    text-align: center;
+    background-color: red;
+    font-size: 30px;
+}
+
+#hola3 {
+    display: block;
+    width: 50%;
+    background-color: red;
+    font-size: 30px;
+}
+
+#hola4 {
+    display: block;
+    width: 50%;
+    float: left;
+    background-color: red;
+    font-size: 30px;
+}
+
+#hola5 {
+    display: block;
+    width: 50%;
+    float: left;
+    background-color: yellow;
+    font-size: 30px;
+}
