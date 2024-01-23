@@ -90,10 +90,10 @@ body {
 
 @keyframes rotate-gear {
     from {
-      transform: rotateZ(0deg);
+        transform: rotateZ(0deg);
     }
     to {
-      transform: rotateZ(360deg);
+        transform: rotateZ(360deg);
     }
 }
 
@@ -177,12 +177,12 @@ body {
 }
 
 @keyframes backBanner {
-  0% {
-      background-position: 0px 0px;
-  }
-  100% {
-      background-position: -200px -200px;
-  }
+    0% {
+        background-position: 0px 0px;
+    }
+    100% {
+        background-position: -200px -200px;
+    }
 }
 
 #banner h1 {

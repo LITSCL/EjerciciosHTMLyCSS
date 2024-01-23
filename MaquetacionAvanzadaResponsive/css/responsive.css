@@ -122,10 +122,10 @@
 }
 
 @media (max-width: 923px) {
-      .card {
-          width: 16%;;
-          margin: 1.85%;
-      }
+    .card {
+        width: 16%;;
+        margin: 1.85%;
+    }
   }
 
 @media (max-width: 919px) {
