@@ -9,7 +9,7 @@
     clear: both;
 }
 
-#contenedorGeneral {
+#contenedorPrincipal {
     width: 1200px;
     margin: 0px auto; /* La propiedad "margin: 0px auto;" permite centrar el contenedor en el centro de la página. */
     margin-top: 20px;

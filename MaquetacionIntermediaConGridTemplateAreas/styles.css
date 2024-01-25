@@ -1,14 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
 body {
     font-family: sans-serif;
     text-align: center;
 }
 
-#website * {
-    margin: 0px;
-    padding: 0px;
-}
-
-#website {
+#contenedor {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: 150px 70px 1fr 70px;
@@ -65,7 +65,7 @@ body {
     color: white;
 }
 
-#footer {
+footer {
     grid-area: pie;
     background: black;
     color: white;

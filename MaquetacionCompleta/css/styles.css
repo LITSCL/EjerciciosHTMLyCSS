@@ -246,7 +246,7 @@ nav > ul > li:hover > ul > li:hover {
 }
 
 /*----Contenido----*/
-#content {
+#contenido {
     font-family: sans-serif, Arial, Helvetica;
     width: 1250px;
     min-height: 1100px;
@@ -333,14 +333,14 @@ aside li {
 }
 
 /*----Secciones----*/
-#sections {
+#secciones {
     float: right;
     width: 75%;
     font-family: sans-serif, Arial, Helvetica;
     margin-right: 20px;
 }
 
-#sections .titulo {
+#secciones .titulo {
     font-family: "fajallaCustom";
     font-size: 24px;
     font-weight: normal;
@@ -352,7 +352,7 @@ aside li {
     border-bottom: 1px solid #ccc;
 }
 
-#sections section {
+#secciones section {
     margin-top: 40px;
     background-color: white;
     padding: 20px;
@@ -363,29 +363,29 @@ aside li {
     overflow: hidden;
 }
 
-#sections article {
+#secciones article {
     margin: 10px;
     margin-top: 20px;
     margin-bottom: 20px;
 }
 
-#sections .date {
+#secciones .fecha {
     color: gray;
     font-size: 14px;
 }
 
-#sections .stickerUno,
-#sections .stickerDos {
+#secciones .stickerUno,
+#secciones .stickerDos {
     position: absolute;
     margin-top: -38px;
     z-index: 0;
 }
 
-#sections .stickerDos {
+#secciones .stickerDos {
     margin-left: 860px;
 }
 
-#history {
+#historico {
     float: right;
     margin-top: 20px;
     margin-right: 20px;
